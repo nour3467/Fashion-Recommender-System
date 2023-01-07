@@ -188,9 +188,3 @@ Project is: _unfinished_
 * Bootstrap 5
 * SQLITE3
 
-# :pushpin: CREDITS
-
-***
-
-[Brief on recommender systems](https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd) <br>
-@Abhinav1004 
